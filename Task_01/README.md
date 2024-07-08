@@ -24,7 +24,7 @@ at least one draw and negative if they have lost all matches.
 
 #### Write a statistics function in Haskell that will accept as an argument the list of results of a group and return a quintuple of integers with the statistics that described above.
 
-The type of the function should be[(Int,Int)]->(Int,Int,Int,Int,Int).
+The type of the function should be   [(Int,Int)]->(Int,Int,Int,Int,Int).
 
 If the list is empty, then the quintuple (0,0,0,0,0) should be returned.
 
