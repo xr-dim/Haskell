@@ -17,7 +17,7 @@ The function type should be [u]->[v]->(u->v->w)->(u->v->w)->(Int->Bool)->[w ].
 
 
 ----
-### Examples 
+### Examples :
 
 Main> combine [5,4,3,2] [7,8,9,10] (*) (^) odd
 
